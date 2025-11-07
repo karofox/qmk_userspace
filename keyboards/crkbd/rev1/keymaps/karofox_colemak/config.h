@@ -36,3 +36,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     #define RGBLIGHT_SAT_STEP 17
     #define RGBLIGHT_VAL_STEP 17
 #endif
+
+#define OLED_TIMEOUT 120000
+#define OLED_BIGHTNESS 120
+#define SPLIT_WPM_ENABLE
